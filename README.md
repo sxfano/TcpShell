@@ -19,7 +19,7 @@ Change these in Client and Server.py
 python Server.py / Attacker / 
 ```
 ```sh
-python Client.py /Listener / 
+python Client.py / Listener / 
 ```
 <h2 id="how-to-use">🤓 How To make exe</h2>
 
