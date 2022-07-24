@@ -21,3 +21,25 @@ python Server.py / Attacker /
 ```sh
 python Client.py /Listener / 
 ```
+<h2 id="how-to-use">🤓 How To make exe</h2>
+
+#### 🤖🤖🤖
+
+Make sure to have installed `Python`
+                            `Pip`
+
+```sh
+pip install auto-py-to-exe
+```
+```sh
+auto-py-to-exe(cmd)
+```
+```sh
+Script Location-Path to the py file
+Onefile
+Console Based
+Optional/icon
+```
+```sh
+Convert .py to .exe
+```
